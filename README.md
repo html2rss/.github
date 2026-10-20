@@ -1,4 +1,4 @@
-![html2rss logo](https://github.com/html2rss/html2rss/raw/master/support/logo.png)
+![html2rss logo](https://html2rss.github.io/assets/logo.png)
 
 Most websites have abandoned RSS feeds, leaving users without control over their
 content consumption. We're building the infrastructure to bring RSS back to every
