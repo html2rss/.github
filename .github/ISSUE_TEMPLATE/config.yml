@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask a question or share an idea
+    url: https://github.com/orgs/html2rss/discussions
+    about: Questions, Q&A, and feature ideas that are not yet ready for an issue.
+  - name: Documentation and feed directory
+    url: https://html2rss.github.io/
+    about: Guides, reference docs, and the feed directory.
