@@ -59,7 +59,7 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported privately to the project maintainers via the contact on the html2rss GitHub organization page, or through GitHub's Report content feature. All complaints will be reviewed and investigated promptly and fairly.
+reported privately to the project maintainers through GitHub's Report content feature, or by opening a private security advisory titled "Code of Conduct" on any html2rss repository (Security tab → Report a vulnerability). All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
